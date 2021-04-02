@@ -27,7 +27,6 @@
 ![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 
 [![pBarsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=pBarsky&count_private=true&show_icons=true)](https://github.com/pBarsky/pBarsky)
-[![pBarsky's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pBarsky)](https://github.com/pBarsky/pBarsky)
-<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pBarsky&layout=compact&langs_count=8)](https://github.com/pBarsky/pBarsky)
+[![pBarsky's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pBarsky)](https://github.com/pBarsky/pBarsky)
 
