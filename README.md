@@ -3,7 +3,6 @@
 - 👨‍🎓 Currently studying at **Nicolaus Copernicus University in Toruń**
 - ⚙ Daily user of `.cs`, `.tsx` and `.py`.
 - 🌱 Learning **.NET & React**
-- 🕵️‍♂️ Currently looking for a job
 - 📬 Reachable at: patryk.janusz.baranski@gmail.com
 - 🍕 Fun fact: Actually enjoys pineapple on pizza
 
