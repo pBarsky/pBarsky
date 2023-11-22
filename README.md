@@ -1,8 +1,7 @@
 ## Hi there 👋 I am Patrick
 
-- 👨‍🎓 Currently studying at **Nicolaus Copernicus University in Toruń**
-- ⌨️ Daily user of `.cs`, `.js`, `.scss`, `.tsx` and `.py`.
-- 💻 Jr. Developer at [ecom.software](https://ecom.software/)
+- ⌨️ Daily user of `.cs`, `.js`, `.scss`, `.tsx`.
+- 💻 Full-stack Developer at [ecom.software](https://ecom.software/)
 - 📬 Reachable at: patryk.janusz.baranski@gmail.com
 - 🍕 Fun fact: Actually enjoys pineapple on pizza
 
